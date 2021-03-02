@@ -3,7 +3,9 @@
 <img width="400px" src="https://github.com/Dojak220/move.it/blob/master/public/logo-full.svg"/>
 </div>
 
-# [Move.it](https://pomomoveit.vercel.app/)
+<h1>
+  <a href="https://pomomoveit.vercel.app/" target="_blank">Move.it</a>
+</h1>
 
 ### An application that helps developers to be more productive and healthier on the same work flow!!
 
