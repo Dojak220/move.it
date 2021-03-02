@@ -3,7 +3,7 @@
 <img width="400px" src="https://github.com/Dojak220/move.it/blob/master/public/logo-full.svg"/>
 </div>
 
-# Move.it
+# [Move.it](https://pomomoveit.vercel.app/)
 
 ### An application that helps developers to be more productive and healthier on the same work flow!!
 
