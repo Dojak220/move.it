@@ -20,6 +20,12 @@ export function ThemeButton() {
 
    return (
       <div className={styles.container}>
+         <br />
+         <label className={styles.switch}>
+            <input type={styles.checkbox} />
+            <span className={styles.sliderRound}></span>
+         </label>
+
          <button
             type="button"
             className={styles.btnToggle}
